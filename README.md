@@ -4,7 +4,7 @@ Tap+ revolutionizes banking with cardless payments and ATM access via NFC-enable
 Project Overview: Tap+ - From Cashless to Cardless
 The Tap+ project is a cutting-edge extension to traditional banking applications, designed to enhance digital banking experiences with cardless payments and ATM access. It offers secure, contactless transactions using NFC-enabled smartphones and biometric authentication. Tap+ addresses the limitations of physical credit cards and ATMs by enabling secure, convenient access to banking services directly from mobile devices.
 
-*Key Features:*
+# Key Features:
 Tap and Pay: Make secure cardless payments at any NFC-enabled point-of-sale terminal.
 Tap and ATM Access: Withdraw cash from ATMs using your mobile phone without needing a physical debit or credit card.
 Mobile Check Deposit: Deposit checks by capturing their images directly through the app.
@@ -17,7 +17,7 @@ Secure Transactions: Use Tap and Pay for cardless payments, or use Tap and ATM A
 Biometric Authentication: Complete transactions with biometric verification for extra security.
 ATM Search with Geo-Fencing: Use location-based services to find secure, Tap+ enabled ATMs.
 
-*Resources:*
+# Resources:
 User Guide: Link to User Manual
 FAQ: Tap+ FAQ
 Contact Support: Support Center
