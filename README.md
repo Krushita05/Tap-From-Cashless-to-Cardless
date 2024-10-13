@@ -12,10 +12,10 @@ Tap Authentication: Enhanced security via biometric verification during transact
 Geo-Fencing: ATM access is restricted to specific locations to enhance security.
 How to Use:
 Download the App: Install the Tap+ extension on your mobile banking app.
-Register Your Cards: Link your NFC-enabled debit or credit cards to your banking profile.
+Register Your Cards: Link your NFC enabled debit or credit cards to your banking profile.
 Secure Transactions: Use Tap and Pay for cardless payments, or use Tap and ATM Access for cardless withdrawals.
 Biometric Authentication: Complete transactions with biometric verification for extra security.
-ATM Search with Geo-Fencing: Use location-based services to find secure, Tap+ enabled ATMs.
+ATM Search with Geo Fencing: Use location-based services to find secure, Tap+ enabled ATMs.
 
 # Resources:
 User Guide: Link to User Manual
